@@ -9,6 +9,10 @@
 
 ![Datase collection process](./README_imgs/map.png)
 
+
+# project demonstration 👀
+
+[![video illustrating project ouput](./README_imgs/placeholder.png)](./README_imgs/voice_to_speech_demonstration.mp4)
 ### Packages Required
 
 ```bash
