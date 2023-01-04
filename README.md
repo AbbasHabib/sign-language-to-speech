@@ -14,7 +14,7 @@
 ```bash
 python3 -m pip install tensorflow opencv-python mediapipe sklearn matplotlib
 ```
-#### For Text to voice
+#### For Text to speech
 ```bash
 python3 -m pip install gtts
 ```
