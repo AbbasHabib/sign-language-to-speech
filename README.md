@@ -12,7 +12,9 @@
 
 # project demonstration 👀
 
-[![video illustrating project ouput](./README_imgs/placeholder.png)](./README_imgs/voice_to_speech_demonstration.mp4)
+https://user-images.githubusercontent.com/79010279/210588246-55eb8f51-8f55-45a2-aada-1abb8dd1e037.mp4
+
+
 ### Packages Required
 
 ```bash
