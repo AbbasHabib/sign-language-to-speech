@@ -1,4 +1,4 @@
-# Sign Language to speech using maching learning techniques
+# Sign Language to speech using mediapipe and Recurrent Neural Network with keras
 
 ## Frameworks & liberaries used
 ### - MediaPipe by Google.
